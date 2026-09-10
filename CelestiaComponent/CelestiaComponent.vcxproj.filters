@@ -634,6 +634,9 @@
     <ClCompile Include="..\..\Celestia\src\celrender\psfglowlargerenderer.cpp">
       <Filter>Celestia\celrender</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Celestia\src\celrender\psfpointlargerenderer.cpp">
+      <Filter>Celestia\celrender</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Celestia\src\celrender\referencemarkrenderer.cpp">
       <Filter>Celestia\celrender</Filter>
     </ClCompile>
@@ -1340,6 +1343,9 @@
       <Filter>Celestia\celrender</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Celestia\src\celrender\psfglowlargerenderer.h">
+      <Filter>Celestia\celrender</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Celestia\src\celrender\psfpointlargerenderer.h">
       <Filter>Celestia\celrender</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Celestia\src\celrender\referencemarkrenderer.h">
